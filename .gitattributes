@@ -1,0 +1,6 @@
+RecortesDatasetCrestas.zip filter=lfs diff=lfs merge=lfs -text
+PruebasCOnCGAN/Generador2/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+RecortesDatasetCrestas2.zip filter=lfs diff=lfs merge=lfs -text
+CorreccionPose/yolov8m-pose.pt filter=lfs diff=lfs merge=lfs -text
+RecortesDatasetCrestas2_1.zip filter=lfs diff=lfs merge=lfs -text
+ filter=lfs diff=lfs merge=lfs -text

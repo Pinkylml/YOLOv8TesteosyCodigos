@@ -1,0 +1,19 @@
+description: Ultralytics Det_Cedulas_Anv_Rev model trained on /content/dataset_config.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2023-11-22T23:33:11.109637'
+version: 8.0.195
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: Amarilla_A
+  1: Digital_A
+  2: Extranjera_A
+  3: NoCedula
+  4: Amarilla_R
+  5: Digital_R
+  6: Extranjera_R
